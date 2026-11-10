@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="image_button">Botón de imagen</string>
+    <string name="fab">Acción principal</string>
+    <string name="chip">Botón tipo Chip</string>
+    <string name="toggle_on">ON</string>
+    <string name="toggle_off">OFF</string>
+</resources>
